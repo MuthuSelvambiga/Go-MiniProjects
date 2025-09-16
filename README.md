@@ -22,6 +22,7 @@ This project was built to practice working with files, user inputs, and building
    ```bash
    git clone https://github.com/MuthuSelvambiga/task-tracker.git
    cd task-tracker
-   
+
 ## Project URL
-[Go-MiniProjects Repository](https://github.com/MuthuSelvambiga/Go-MiniProjects)
+https://github.com/MuthuSelvambiga/Go-MiniProjects
+
