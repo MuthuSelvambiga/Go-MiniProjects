@@ -1,28 +1,17 @@
-# Task Tracker CLI 
 # Task Tracker CLI
 
-A simple command-line application to track and manage your tasks.  
-This project was built to practice working with files, user inputs, and building a CLI tool.
+A simple command-line application to track and manage tasks.  
+This project lets you add, update, delete, and list tasks with different statuses.
 
----
-
-## ✨ Features
-- Add a new task
-- Update a task’s status (**todo**, **in-progress**, or **done**)
-- Delete a task
+## Features
+- Add, update, and delete tasks
+- Mark tasks as `todo`, `in-progress`, or `done`
 - List all tasks
 - List tasks by status (todo / in-progress / done)
 - Stores tasks in a JSON file (`tasks.json`)
 
----
-
-## ⚙️ Installation
-
+## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MuthuSelvambiga/task-tracker.git
-   cd task-tracker
-
-## Project URL
-https://github.com/MuthuSelvambiga/Go-MiniProjects
-
+   git clone https://github.com/MuthuSelvambiga/Go-MiniProjects
+   cd Go-MiniProjects/task-tracker
