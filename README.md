@@ -13,5 +13,6 @@ This project lets you add, update, delete, and list tasks with different statuse
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MuthuSelvambiga/Go-MiniProjects
+https://github.com/MuthuSelvambiga/Go-MiniProjects
+
    cd Go-MiniProjects/task-tracker
